@@ -1,6 +1,6 @@
 # Recursos
 
-Infelismente não existe muita coisa em português, entãoe sa lista é mista:
+Infelizmente não existe muita coisa em português, então essa lista é mista:
 Primeiramente, meu artigo [DevRel: O básico](https://dev.to/pachicodes/devrel-the-basics-j3o)!
 
 **Livros, em EN**
