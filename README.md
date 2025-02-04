@@ -3,6 +3,8 @@
 Infelizmente não existe muita coisa em português, então essa lista é mista:
 Primeiramente, meu artigo [DevRel: O básico](https://dev.to/pachicodes/devrel-the-basics-j3o)!
 
+[Guias de carreira em DevRel](https://www.devrel-ladders.com/)
+
 **Livros, em EN**
 - [The Business Value of Developer Relations by Mary Thengvall](https://www.persea-consulting.com/book),
 - [Getting Started in Developer Relations by Sam Julien](https://learn.samjulien.com/getting-started-in-developer-relations),
